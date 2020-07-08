@@ -10,7 +10,7 @@ class AsianBot529 extends Chariot.Client {
                 defaultHelpCommand: true,
                 primaryColor: 'AQUA',
                 owner: [
-                    '240958339939434496'
+                    config.username,
                 ]
             }
         ));
