@@ -26,7 +26,7 @@ class WhatMouse extends Chariot.Command {
      * @param {Object} chariot The bot client itself
      */
     async execute(message, args, chariot) {
-        message.channel.createMessage("FunOrange uses the Cooler Master MM710");
+        message.channel.createMessage("FunOrange uses the Razer Viper Mini");
     }
 }
 
