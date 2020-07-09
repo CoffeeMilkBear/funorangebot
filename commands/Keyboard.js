@@ -26,7 +26,7 @@ class Keyboard extends Chariot.Command {
      * @param {Object} chariot The bot client itself
      */
     async execute(message, args, chariot) {
-        message.channel.createMessage("Microsoft Surface Keyboard, DREVO 71 w/ Black Switches");
+        message.channel.createMessage("PLUM Micro 82 Capacitive Keyboard");
     }
 }
 
